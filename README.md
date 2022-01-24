@@ -3,7 +3,7 @@
 - I'm a work-study student in France
 - How to reach me: valentin.colin78@gmail.com
 
-| ![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentincolin&count_private=true&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=valentincolin&layout=compact&langs_count=6) |
+| ![Valentin's GitHub stats][stats_card_link] | ![Top Languages][languages_card_link] |
 | ------------- | ------------- |
 
 <!--
@@ -22,3 +22,7 @@ Language card options:
 Customisation card option: ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentincolin&repo=.dotfiles)
     - https://github.com/anuraghazra/github-readme-stats#customization
 -->
+
+[stats_card_link]: https://github-readme-stats.vercel.app/api?username=valentincolin&count_private=true&show_icons=true
+[languages_card_link]: https://github-readme-stats.vercel.app/api/top-langs?username=valentincolin&layout=compact&langs_count=6
+<!-- [pin_card_link]: https://github-readme-stats.vercel.app/api/pin/?username=valentincolin&repo=.dotfiles -->
