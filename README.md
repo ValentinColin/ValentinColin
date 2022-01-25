@@ -46,6 +46,6 @@ Repo Card Options:
     - show_owner - Show the repo's owner name (boolean)
 -->
 
-[stats_card_link]: https://github-readme-stats.vercel.app/api?username=valentincolin&count_private=true&show_icons=true
+[stats_card_link]: https://github-readme-stats.vercel.app/api?username=valentincolin&count_private=true&show_icons=true&hide=stars
 [languages_card_link]: https://github-readme-stats.vercel.app/api/top-langs?username=valentincolin&layout=compact&langs_count=6
-<!-- [pin_card_link]: https://github-readme-stats.vercel.app/api/pin/?username=valentincolin&repo=.dotfiles -->
+[pin_card_link]: https://github-readme-stats.vercel.app/api/pin/?username=valentincolin&repo=.dotfiles
