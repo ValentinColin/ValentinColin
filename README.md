@@ -1,11 +1,14 @@
 # Hello I'm Valentin
 
 - I'm a work-study student in France
+- I'm mainly a C++/Python programmer
 - How to reach me: valentin.colin78@gmail.com
 
+![Valentin's GitHub stats][stats_card_link]
+<!--
 | ![Valentin's GitHub stats][stats_card_link] | ![Top Languages][languages_card_link] |
 | ------------- | ------------- |
-
+-->
 <!--
 Common Options:
     - title_color - Card's title color (hex color)
