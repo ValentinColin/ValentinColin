@@ -1,8 +1,11 @@
-# Hello I'm Valentin
+# Hi there 👋
 
-- I'm a work-study student in France
-- I'm mainly a C++/Python programmer
-- How to reach me: valentin.colin78@gmail.com
+I'm Valentin
+
+- 🇫🇷 I'm a work-study student in France
+- 💻 I'm mainly a C++/Python programmer
+- 🔭 I often work on the DX (Developer Experience)
+- 📫 How to reach me: valentin.colin78@gmail.com
 
 ![Valentin's GitHub stats][stats_card_link]
 <!--
