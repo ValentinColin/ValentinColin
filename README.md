@@ -1,7 +1,5 @@
 # Hi there 👋
 
-I'm Valentin
-
 <table align="center">
     <tr>
         <td align="left">
