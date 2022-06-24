@@ -2,12 +2,23 @@
 
 I'm Valentin
 
-- 🇫🇷 I'm a work-study student in France
-- 💻 I'm mainly a C++/Python programmer
-- 🔭 I often work on the DX (Developer Experience)
-- 📫 How to reach me: valentin.colin78@gmail.com
+<table align="center">
+    <tr>
+        <td align="left">
+             <ul>
+                <li>👨 I'm Valentin</li>
+                <li>🇫🇷 I'm a work-study student in France</li>
+                <li>💻 I'm mainly a C++/Python programmer</li>
+                <li>🔭 I often work on the DX (Developer Experience)</li>
+                <li>📫 How to reach me: valentin.colin78@gmail.com</li>
+            </ul>
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=valentincolin&count_private=true&show_icons=true&hide=stars" alt="stats card">
+        </td>
+    </tr>
+</table>
 
-![Valentin's GitHub stats][stats_card_link]
 <!--
 | ![Valentin's GitHub stats][stats_card_link] | ![Top Languages][languages_card_link] |
 | ------------- | ------------- |
