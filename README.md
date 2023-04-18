@@ -7,7 +7,7 @@
                 <li>👨 I'm Valentin</li>
                 <li>🇫🇷 I'm a work-study student in France</li>
                 <li>💻 I'm mainly a C++/Python/Rust programmer</li>
-                <li>🔭 I often work on the DX (Developer Experience)</li>
+                <li>🔭 I often work on the DX tools(Developer Experience)</li>
                 <li>📫 How to reach me: valentin.colin78@gmail.com</li>
             </ul>
         </td>
