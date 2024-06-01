@@ -5,9 +5,8 @@
         <td align="left">
              <ul>
                 <li>👨 I'm Valentin</li>
-                <li>🇫🇷 I'm a work-study student in France</li>
-                <li>💻 I'm mainly a C++/Python/Rust programmer</li>
-                <li>🔭 I often work on the DX tools (Developer Experience)</li>
+                <li>🇫🇷 I'm a cloud developer in France</li>
+                <li>💻 I'm mainly a Rust/C++/Python programmer</li>
                 <li>📫 How to reach me: valentin.colin78@gmail.com</li>
             </ul>
         </td>
